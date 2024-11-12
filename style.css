@@ -1,0 +1,34 @@
+.search-field{
+    border:none;
+    background:none;
+}
+.button-align button{
+    margin-left: 20px;
+}
+.btn-text{
+    background: none;
+    border: none;
+    color: #0d6efd;
+    padding: 0;
+}
+
+.sign-up-toast{
+    bottom: 20px;
+    position: absolute;
+    text-align: center;
+    left: calc(50% - 100px);
+}
+#cal{
+    position:relative;
+}
+/* 
+div#home {
+    top: 100px;
+    position: relative;
+}
+
+
+div#about_temples {
+    top: 100px;
+    position: relative;
+} */
